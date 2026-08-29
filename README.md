@@ -125,3 +125,10 @@ curl "https://friendbot.stellar.org/?addr=$(stellar keys address mykey)"
 - **Frontend** — Next.js 14, Tailwind, Zustand, React Query, Framer Motion
 - **Wallet** — Freighter (Stellar browser extension), `@stellar/freighter-api` v3
 - **Network** — Stellar Testnet, Soroban RPC
+
+## Security
+
+Found a vulnerability? **Please report it privately** — do not open a public issue.
+See [SECURITY.md](SECURITY.md) for the private reporting channel, response SLA,
+scope (the five Soroban contracts), safe-harbour terms, and the testnet
+no-real-value notice.
